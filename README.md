@@ -7,8 +7,7 @@ Select Base Model:
 
 Choose an appropriate pre-trained LLM from platforms like Hugging Face, such as GPT, Llama, or Mistral models, depending on the task and resource constraints.
 
-Prepare Dataset:
-
+PREPARE DATASET:
 Collect and curate a high-quality dataset relevant to the task. Format the dataset in a structure the model can understand, often as input-output text pairs (e.g., prompts and responses in JSON or CSV format). Clean, tokenize, and preprocess this data for consistency.
 
 Choose Fine-Tuning Method:
